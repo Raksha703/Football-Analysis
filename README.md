@@ -21,8 +21,3 @@ Steps:
 - Predict players teams based on predefined team colors.
 - Build a tactical map representation.
 - Track ball movements.
-
-
-## Application Workflow
-
-The journey of the input video and different functionalities are illustrated in the workflow diagram below.
